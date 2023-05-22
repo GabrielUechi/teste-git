@@ -2,3 +2,4 @@
 
 #commitando
 *git pull
+*git fetch
